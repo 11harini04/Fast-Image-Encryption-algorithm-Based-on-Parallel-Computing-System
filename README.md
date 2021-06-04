@@ -1,1 +1,1 @@
-# Fast-Image-Encryption-algorithm-Based-on-Parallel-Computing-System
+# Fast image encryption algorithm based on parallel computing system
